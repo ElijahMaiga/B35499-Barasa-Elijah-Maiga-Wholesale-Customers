@@ -1,4 +1,4 @@
-# DSC8307 – Data Mining, Modeling and Analytics  
+## DSC8307 – Data Mining, Modeling and Analytics  
 Advent 2026 Assignment
 
 **Programme:** Master of Science in Data Science and Analytics  
